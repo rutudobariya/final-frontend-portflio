@@ -8,7 +8,7 @@ import project6 from "../assets/images/project-6.png";
 import project7 from "../assets/images/project-7.png";
 import project8 from "../assets/images/project-8.png";
 import project9 from "../assets/images/project-9.png";
-
+import project10 from "../assets/images/project-10.png";
 import AOS from 'aos'
 import 'aos/dist/aos.css' 
 import { useEffect } from "react";
@@ -85,6 +85,14 @@ const Porfolio = () => {
       name:"Cart Redux website",
       demo:"https://cart-react-gold.vercel.app/",
       code:"https://github.com/rutudobariya/cart-react/tree/Master/"
+
+  },
+    {
+      id:10,
+      src:project10,
+      name:"Cart Redux website",
+      demo:"https://icecream-management-app.vercel.app/",
+      code:"https://github.com/rutudobariya/icecream--management-app"
 
   },
     ]
