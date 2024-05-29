@@ -90,7 +90,7 @@ const Porfolio = () => {
     {
       id:10,
       src:project10,
-      name:"Cart Redux website",
+      name:"Icecream-Managment-Website",
       demo:"https://icecream-management-app.vercel.app/",
       code:"https://github.com/rutudobariya/icecream--management-app"
 
