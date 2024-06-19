@@ -9,6 +9,7 @@ import project7 from "../assets/images/project-7.png";
 import project8 from "../assets/images/project-8.png";
 import project9 from "../assets/images/project-9.png";
 import project10 from "../assets/images/project-10.png";
+import project11 from "../assets/images/project-11.png";
 import AOS from 'aos'
 import 'aos/dist/aos.css' 
 import { useEffect } from "react";
@@ -93,6 +94,14 @@ const Porfolio = () => {
       name:"Icecream-Managment-Website",
       demo:"https://icecream-management-app.vercel.app/",
       code:"https://github.com/rutudobariya/icecream--management-app"
+
+  },
+         {
+      id:11,
+      src:project11,
+      name:"Redux-demo-app",
+      demo:"https://redux-demo-app.vercel.app/",
+      code:"https://github.com/rutudobariya/redux-demo-app.git"
 
   },
     ]
